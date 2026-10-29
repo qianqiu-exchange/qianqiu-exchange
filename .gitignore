@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+dist/
+*.log
+.vscode/
+
+android/build/
+android/keys/
+*.keystore
+*.jks
+*.apk
+*.idsig
+local.properties

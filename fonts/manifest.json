@@ -1,0 +1,26 @@
+[
+  {
+    "file": "qianqiu-brush.woff2",
+    "family": "Qianqiu Brush",
+    "source": "MaShanZheng-Regular.ttf",
+    "source_sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+    "bytes": 389464,
+    "glyphs": 1022
+  },
+  {
+    "file": "qianqiu-notes.woff2",
+    "family": "Qianqiu Notes",
+    "source": "LXGWWenKai-Regular.ttf",
+    "source_sha256": "2d73eea94ad808999d90c0000c239a84a33b09d4bc6ab6c5b8bbf1eda8a7fc8b",
+    "bytes": 217160,
+    "glyphs": 1077
+  },
+  {
+    "file": "qianqiu-script.woff2",
+    "family": "Qianqiu Script",
+    "source": "Caveat.ttf",
+    "source_sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988",
+    "bytes": 61300,
+    "glyphs": 102
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "千秋交易所 · 架空世界",
+  "version": 1,
+  "instructions": "AGENT_SETUP.md",
+  "protocol": "chat-completions",
+  "profileSchema": {
+    "version": 1,
+    "provider": "direct",
+    "endpoint": "https://provider.example/v1/chat/completions",
+    "model": "REPLACE_WITH_REAL_MODEL_ID",
+    "protocol": "chat-completions"
+  },
+  "credentialPolicy": "API Key不可放入可导入配置；只能在用户授权后填入当前页面的密钥输入框。用户单独选择是否在此浏览器记住凭据。",
+  "browserFields": ["connection-provider", "connection-endpoint", "connection-model", "connection-key"],
+  "verification": "在页面点击测试连接；只有用户启用后，闲谈和观察对手才调用模型。",
+  "tokenPay": "支持官方S256 PKCE授权页与一次性Code交换，无自建回调服务器；也可填已有Key。真实账号登录与后台归因仍需联调。"
+}
